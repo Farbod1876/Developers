@@ -1,0 +1,2 @@
+# Developers
+DevConnector-FullStack Node/React/Redux MERN Project: (A social network- DevConnector) A back-end API project with Node and the front-end with react/redux. API with authentication, and the front-end with state management, multiple reducers and a ton of UI components. Users can register, Create a pretty extensive profile with many fields, including education and job experience. They can also enter a GitHub username! Users can also create posts and comment on them, Like or Unlike.
